@@ -5,7 +5,7 @@
  * Description: The next generation of Structured Data.
  * Author: Hesham
  * Author URI: http://zebida.com
- * Version: 1.7.2
+ * Version: 999bluesat1.7.2
  * Text Domain: schema-wp
  * Domain Path: languages
  *
